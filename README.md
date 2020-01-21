@@ -1,6 +1,6 @@
 # Ahorcado
 
-<img src="/assets/img/ejemplo.png"/> 
+<img src="src/assets/img/ejemplo.png"/> 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
 
